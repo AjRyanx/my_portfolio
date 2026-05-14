@@ -49,6 +49,17 @@ PROJECTS:
    - Link: https://my-project-one-ivory.vercel.app
    - GitHub: https://github.com/AjRyanx/Smart-Attendance-Management-System
 
+2. Personal Portfolio Website
+
+   - Type: Personal Project
+
+   - Description: Minimal, responsive portfolio website with dark/light mode, smooth scroll, and clean aesthetic. No frameworks, no external dependencies except Google Fonts.
+
+   - Stack: HTML, CSS, JavaScript
+
+   - Link: https://my-portfolio-ajryanxs-projects.vercel.app
+   - GitHub: https://github.com/AjRyanx/my_portfolio
+
 SKILLS:
 
 - JavaScript
